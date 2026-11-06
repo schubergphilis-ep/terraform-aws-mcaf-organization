@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.5.0](https://github.com/schubergphilis-ep/terraform-aws-mcaf-organization/compare/v0.4.0...v0.5.0) (2026-11-06)
+
+
+### 🚀 Features
+
+* enable AWS Resource Explorer trusted access by default ([#2](https://github.com/schubergphilis-ep/terraform-aws-mcaf-organization/issues/2)) ([1634b47](https://github.com/schubergphilis-ep/terraform-aws-mcaf-organization/commit/1634b4726bf8196db17d50a673371725aa0eb9ab))
+
 ## [0.4.0](https://github.com/schubergphilis-ep/terraform-aws-mcaf-organization/compare/v0.3.1...v0.4.0) (2026-06-25)
 
 
@@ -43,4 +50,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### 🚀 Features
 
 * manage AWS organization ([#1](https://github.com/schubergphilis/terraform-aws-mcaf-organization/pull/1)) ([73c5c4c](https://github.com/schubergphilis-ep/terraform-aws-mcaf-organization/commit/73c5c4c338e8e9c4644a4c3e4b550439e7d36280))
-
