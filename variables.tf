@@ -20,6 +20,7 @@ variable "aws_service_access_principals" {
     "member.org.stacksets.cloudformation.amazonaws.com",
     "ram.amazonaws.com",
     "reporting.trustedadvisor.amazonaws.com",
+    "resource-explorer-2.amazonaws.com",
     "securityhub.amazonaws.com",
     "sso.amazonaws.com",
     "tagpolicies.tag.amazonaws.com",
